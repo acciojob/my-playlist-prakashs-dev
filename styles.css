@@ -41,3 +41,23 @@ h2 {
     width: 323px;
     margin-left: 37%;
 }
+.player_one {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 323px;
+    margin-left: 37%;
+}
+.player_two {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 323px;
+    margin-left: 37%;
+}
+
+
+
+
